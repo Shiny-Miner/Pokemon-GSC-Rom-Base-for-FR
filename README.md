@@ -33,7 +33,7 @@ There's a NPC in Pallet Town that gives you all bagdes, all HMS, the Old Rod, th
 a Machamp, a Gyarados, a Rattata and a Pidgey so you can test stuff.
 
 # Contents ----
-## Ported Tilesets from Pokémon Gold/Silver/Crystal
+Ported Tilesets from Pokémon Gold/Silver/Crystal
 
 1:Main Outdoor(with some animations!)
 
@@ -45,17 +45,18 @@ a Machamp, a Gyarados, a Rattata and a Pidgey so you can test stuff.
 
 5:Caves
 
-## Ported Overworld Sprites from Pokémon GSC(not all sprites are changed)
+Ported Overworld Sprites from Pokémon GSC(not all sprites are changed)
 Almost Changed Sprites have 9-10 frames, some sprites were edited so they use their Fire Red Versions(Ex:Misty)
 All Changed Overworld sprites have white outlines!
 
-## New Dialogue Textbox and Sign Textbox
+New Dialogue Textbox and Sign Textbox
 
-## Some Custom Tiles, EX:Poké Center and Poké Mart, feel free to edit them!
-## Expanded GSC player Sprite, they now have the VsSeeker Poké Ball, and Bike-VsSeeker sprites.
+Some Custom Tiles, EX:Poké Center and Poké Mart, feel free to edit them!
+
+Expanded GSC player Sprite, they now have the VsSeeker Poké Ball, and Bike-VsSeeker sprites.
 
 
-# Patches I recommend applying with the Rom Base
+## Patches I recommend applying with the Rom Base
 
 GSC Font Patch(Adds Pokémon RGBY and GSC Font to the game) - LibertyTwins
 https://www.reddit.com/r/PokemonROMhacks/comments/rgf069/gbc_gen_1_styled_font_patch_for_pokemon_fire_red/
